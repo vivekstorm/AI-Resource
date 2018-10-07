@@ -18,11 +18,10 @@ First watch [Essence of Linear Algebra](https://goo.gl/HHpHma) and then follow K
 First watch [Essence of Calculus](https://goo.gl/bsz4sE) for better understanding of use of calculus
 
 ## Probability and Statistics - Week 2,3
-* [Statistics by Professor Leonard](https://goo.gl/Eg8o1w) 
+* [Statistical Learning](https://www.youtube.com/playlist?list=PL06ytJZ4Ak1rXmlvxTyAdOEfiVEzH00IK) 
 * [JB Statistics](https://www.youtube.com/user/jbstatistics/playlists) 
 * [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists)
 
-First watch [Statistics by Professor Leonard](https://goo.gl/Eg8o1w) and then follow Brandon Foltz videos or JB Statistics
 
 ## Python Programming - Week 4
 * [Python Programming](https://goo.gl/2C7Su8) 
