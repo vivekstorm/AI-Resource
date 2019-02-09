@@ -88,7 +88,7 @@ First watch [Essence of Calculus](https://goo.gl/bsz4sE) for better understandin
     * [ML Slides-CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
         
  * NLP
-    * [Stanford NLP Slides](http://web.stanford.edu/class/cs224n/syllabus.html)
+    * [Stanford NLP Slides](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
 
 ## Blogs
